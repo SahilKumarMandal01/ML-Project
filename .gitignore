@@ -2,3 +2,4 @@ venv/
 rough.py
 logs
 artifacts/
+catboost_info/
